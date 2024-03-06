@@ -1,3 +1,5 @@
+// The code here is partial dealing only with the communcation aspect with anchor nodes
+
 // Define sensor ports for current position and received position from anchor nodes
 sensor
     real_port currentX   uses GetCurrentX;
